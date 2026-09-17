@@ -1,0 +1,1 @@
+Put your photos and lyric screenshots in this folder. See README.txt for the expected filenames.
